@@ -15,6 +15,7 @@ python main.py
 
 
 ## Input Parameters in main.py:
+```python
 Mob_no = ""
 NameOFRegisteredCandidate = ""
 stateName = ""
@@ -27,3 +28,4 @@ NameOFRegisteredCandidate = "Ram Charan"
 stateName = "Maharashtra"
 districtName = "Pune"
 centers = ['New Jijamata Hospital-2(18-44)','Premlok Park Disp- 2(18-44)',' New Bhosari (18-44)']
+```
