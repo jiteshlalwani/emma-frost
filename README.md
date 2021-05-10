@@ -6,9 +6,12 @@ Attempt to automate cowin appointment.
 ```python
 pip install webdriver-manager
 pip install -U selenium
-python main.py
 ```
+
+## Command to execute the code
 ```python
+python main.py
+
 # Enter OTP in the browser within 18 secs when asked and do not press confirm OTP button.
 # If multiple names are registered, You might have to scroll down manually.
 ```
